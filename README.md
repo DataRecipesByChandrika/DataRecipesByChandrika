@@ -31,7 +31,7 @@ Specialized in IBM DataStage, SQL, and building reliable data integration framew
 
 ## ☕ Connect With Me
 - 🔗[LinkedIn](https://www.linkedin.com/in/chandrika-chokka-66b9ab184/)
-- 📧 Email: Chandrika67a@gmail.com  
+- 📧 [Email](mailto:Chandrika67a@gmail.com)
 
 ---
 
