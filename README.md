@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Chandrika
+Senior Data Engineer | 11+ Years Experience
 
-<!--
-**DataRecipesByChandrika/DataRecipesByChandrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Senior Data Engineer with 11+ years of experience designing and optimizing ETL pipelines and data warehouse solutions. I specialize in building reliable, high-performance data systems that support real-world business operations.
 
-Here are some ideas to get you started:
+🔧 Skills
+IBM DataStage (ETL Development & Optimization)
+SQL / PL/SQL (Oracle, SQL Server)
+Data Warehousing & Data Modeling
+SCD / CDC Implementation
+Unix Shell Scripting
+💼 Experience
+11+ years in enterprise data engineering
+Worked across Banking, Telecom, Insurance, Healthcare
+Strong in performance tuning and production support
+📊 Current Focus
+PySpark & Cloud Data Engineering
+Advanced Data Modeling
+📁 Projects
+ETL Pipeline Optimization
+Data Warehouse Design (Star Schema)
+SQL Performance Tuning
+🤝 Connect
+LinkedIn
+Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Building reliable and scalable data systems.
