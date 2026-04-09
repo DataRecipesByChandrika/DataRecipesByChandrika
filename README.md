@@ -1,27 +1,39 @@
 👋 Hi, I'm Chandrika
 Senior Data Engineer | 11+ Years Experience
 
-I’m a Senior Data Engineer with 11+ years of experience designing and optimizing ETL pipelines and data warehouse solutions. I specialize in building reliable, high-performance data systems that support real-world business operations.
+## 🚀 About Me
+Data Engineer with 11+ years of experience designing and optimizing large-scale ETL pipelines and data warehouse solutions.  
+Specialized in IBM DataStage, SQL, and building reliable data integration frameworks using SCD and CDC techniques.
 
-🔧 Skills
-IBM DataStage (ETL Development & Optimization)
-SQL / PL/SQL (Oracle, SQL Server)
-Data Warehousing & Data Modeling
-SCD / CDC Implementation
-Unix Shell Scripting
-💼 Experience
-11+ years in enterprise data engineering
-Worked across Banking, Telecom, Insurance, Healthcare
-Strong in performance tuning and production support
-📊 Current Focus
-PySpark & Cloud Data Engineering
-Advanced Data Modeling
-📁 Projects
-ETL Pipeline Optimization
-Data Warehouse Design (Star Schema)
-SQL Performance Tuning
-🤝 Connect
-LinkedIn
-Email
+---
 
-⭐ Building reliable and scalable data systems.
+## 📌 What I Do
+- Build scalable ETL pipelines  
+- Design Data Warehouse solutions  
+- Optimize SQL for performance  
+- Solve real-world data engineering problems  
+
+---
+
+## 📊 Featured Work
+🔹 Data Recipes – Practical ETL & SQL solutions  
+🔹 Data Warehouse & Data Modeling  
+🔹 Performance Tuning & Optimization  
+
+---
+
+## 🧰 Skills
+**ETL:** IBM DataStage  
+**Databases:** Oracle, SQL Server  
+**Core Concepts:** SCD, CDC, Data Warehousing, Data Modeling  
+
+---
+
+## ☕ Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/chandrika-chokka-66b9ab184/
+- 📧 Email: Chandrika67a@gmail.com  
+
+---
+
+## 🍳 DataRecipesByChandrika
+Turning complex data problems into simple, practical solutions.
