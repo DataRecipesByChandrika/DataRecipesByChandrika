@@ -20,14 +20,6 @@ Specialized in IBM DataStage, SQL, and building reliable data integration framew
 🔹 Data Warehouse & Data Modeling  
 🔹 Performance Tuning & Optimization  
 
----
-
-## 🧰 Skills
-**ETL:** IBM DataStage  
-**Databases:** Oracle, SQL Server  
-**Core Concepts:** SCD, CDC, Data Warehousing, Data Modeling  
-
----
 
 ## ☕ Connect With Me
 - 🔗[LinkedIn](https://www.linkedin.com/in/chandrika-chokka-66b9ab184/)
